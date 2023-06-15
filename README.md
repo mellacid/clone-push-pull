@@ -6,7 +6,6 @@
 Name: Norbert Fridrich
 Age: 30
 Nationality: hungarian
-<<<<<<< HEAD
 Favorite Food: Töltöttkäposzta
 
 
@@ -14,6 +13,4 @@ Name: Miriam Joline
 Age: 25
 i love gaming and programming
 My favorite food is Lasagne 
-=======
 Favorite Food: Töltöttkäposzta
->>>>>>> a60e6e8b4337a3cbe2e89bc4f39a802ee1fb80a1
